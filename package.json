@@ -28,7 +28,7 @@
     "@types/express-useragent": "^1.0.0",
     "@types/mime": "^2.0.2",
     "@types/morgan": "^1.9.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "axios-cache-adapter": "^2.5.0",
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
